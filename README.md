@@ -6,3 +6,5 @@ Project for The Odin Project
         I'm more of a fast food enthusiast. I will be demonstrating, 
         linking, images, emphasizing, bold, and some other stuff
          -->
+
+        testing the git. 
